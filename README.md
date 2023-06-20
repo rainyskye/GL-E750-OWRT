@@ -11,4 +11,15 @@ Making Vanilla OpenWRT actually usable on the GL-iNet GL-E750
 - [ ] Ethernet (WAN)
 - [ ] Micro SD Slot
 - [ ] LTE WWAN (Including SIM Slot)
-- [ ] Display/MCU (Status, SSID, Signal, Battery)
+- [ ] Display/MCU Communication
+    - [ ] Initialization
+    - [ ] WWAN Network Display
+    - [ ] WWAN Network Signal
+    - [ ] Time
+    - [ ] Clients Connected
+    - [ ] Wifi Status (Incl Bands)
+    - [ ] WLAN SSID
+    - [ ] WLAN Password
+    - [ ] Mode Display (Router, etc.)
+    - [ ] Router IP
+    - [ ] VPN Status
