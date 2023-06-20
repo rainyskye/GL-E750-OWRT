@@ -2,12 +2,13 @@
 Making Vanilla OpenWRT actually usable on the GL-iNet GL-E750
 
 ### Support
-- [ ] Booting
+- [x] Booting (Boots using OpenWRT Stock Image)
 - [ ] Charging (Not sure if this will be an issue)
+- [x] LuCI WebUI
 - [ ] System Stats (Battery, Temp)
 - [ ] Wi-Fi (Transmitting)
 - [ ] Wi-Fi (Reciever Mode)
-- [ ] Ethernet (LAN)
+- [x] Ethernet (LAN) (Works using OpenWRT Stock Image)
 - [ ] Ethernet (WAN)
 - [ ] Micro SD Slot
 - [ ] LTE WWAN (Including SIM Slot)
