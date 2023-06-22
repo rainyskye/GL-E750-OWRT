@@ -12,3 +12,4 @@
 
 [22-06-2023]
 - i am sick, irrelevent to the project but i feel like shit :3
+- testing a custom build today, prepackaged with the tools needed for WWAN
